@@ -1,0 +1,9 @@
+{
+  "name": "whitespace",
+  "version": "0.1.1",
+  "description": "Whitespace interpreter",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT"
+}
