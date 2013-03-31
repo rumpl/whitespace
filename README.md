@@ -2,7 +2,8 @@
 
 Whitespace is an esoteric imperative stack-based language.
 
-Here I am trying to write a whitespace interpreter in javascript. There isn't much to see right now, but more to come soon.
+Here I am trying to write a whitespace interpreter in javascript. The lexer and the parser are pretty much done, the VM is on it's way.
+I still need to figure out some things from the original Haskell source.
 
 For more information and the reference implementation, see [the official website](http://compsoc.dur.ac.uk/whitespace/).
 
