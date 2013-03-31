@@ -6,6 +6,8 @@ Here I am trying to write a whitespace interpreter in javascript.
 
 Most of the programs in the `ws` directory are working, there is something weird happening with the hanoi.ws...
 
+**Note**: Every program that waits for an input does not work on MAC OS X. Still need to find a workaround...
+
 ## Run
 
 You can simply run it with:
