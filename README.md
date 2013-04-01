@@ -4,7 +4,7 @@ Whitespace is an esoteric imperative stack-based language made by two guys who h
 
 Here I am trying to write a whitespace interpreter in javascript.
 
-Most of the programs in the `ws` directory are working, there is something weird happening with the hanoi.ws...
+Most of the programs in the `ws` directory are working. There is a problem with name.ws, I will look at it soon.
 
 **Note**: Every program that waits for an input does not work on MAC OS X. Still need to find a workaround...
 
