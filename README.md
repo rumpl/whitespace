@@ -6,8 +6,6 @@ Here I am trying to write a whitespace interpreter in javascript.
 
 All the programs in `ws` should work fine.
 
-**Note**: Every program that waits for an input does not work on MAC OS X. Still need to find a workaround...
-
 ## Run
 
 You can simply run it with:
