@@ -2,7 +2,7 @@
 
 Whitespace is an esoteric imperative stack-based language made by two guys who had too much time on their hands.
 
-Here I am trying to write a whitespace interpreter in javascript.
+This is an implementation of the language in javascript.
 
 All the programs in `ws` should work fine.
 
